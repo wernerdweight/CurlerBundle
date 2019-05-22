@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bd93970c38ab599e7201f513058236b0",
+    "content-hash": "263f51b8c513885c03ecfa729d3ea924",
     "packages": [
         {
             "name": "psr/cache",
@@ -1216,7 +1216,7 @@
         },
         {
             "name": "wernerdweight/curler",
-            "version": "v0.1.0",
+            "version": "v1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wernerdweight/Curler.git",
